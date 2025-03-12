@@ -1,0 +1,3 @@
+public enum StatusPedido {
+    ABERTO, PREPARANDO, PRONTO, ENTREGUE, FINALIZADO, CANCELADO
+}
